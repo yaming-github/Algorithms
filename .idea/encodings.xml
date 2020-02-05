@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/map/Dijkstra.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/map/Paths.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/map/Point.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/map/ShortestPath.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/map/Turtle.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
